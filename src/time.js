@@ -1,6 +1,6 @@
 const timeLeft = document.querySelector("h1");
 
-var countDownDate = new Date("Jan 1, 2024 00:00:00").getTime();
+var countDownDate = new Date("Jan 1, 2025 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
